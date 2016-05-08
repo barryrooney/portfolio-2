@@ -41,20 +41,20 @@ html.no-touch body {
 
 #landing-page {
    
-     background-repeat: no-repeat;
+    background-repeat: no-repeat;
      min-width: 200px;
      background-position: center; 
      background-size: 100%;
-    height: 400px;}
+    height: 300px;}
 
 #intro {
     background-color: #00ffbb;
-    height: 475px;
+    height: 500px;
     padding-top: 3em;
 }
 
 #about {background-color: #00ffbb;
-height: 360px;
+height: 380px;
     padding-top: 3em;
 }
 
@@ -79,8 +79,8 @@ p{
     max-width: 500px;
     margin: auto;
     min-width: 50px;
-  letter-spacing: 1px;
-    font-size: .8em;
+  letter-spacing: .9px;
+    font-size: .9em;
     text-align: center;
     color: white;
     }
@@ -92,6 +92,7 @@ p{
     font-size: 1.2em;
     text-align: center;
     align-content: center;
+    letter-spacing: 1px;
     }
 
 
@@ -99,6 +100,7 @@ p{
     font-family: 'Raleway', sans-serif;
     color: white;
     font-weight: 600;
+    font-size: 1.2em;
     text-align: center;
     line-height: 2.5em;
     margin-bottom: 2em;
@@ -107,12 +109,12 @@ letter-spacing: 1px;}
 #contacta {
 font-family: 'Raleway', sans-serif;
     color: #00ffbb;
-    font-weight: 600;
-    font-kerning: 10em;
+    font-weight: 4400;
+    font-size: 1.2em;
+    letter-spacing: 1px;
     text-align: center;
-    line-height: 2.5em;
-    margin-bottom: 2em;
-margin-top: 2em}
+    line-height: 1.5em;
+  }
 
 
 
@@ -135,7 +137,8 @@ nav ul {
     
 nav ul li  {
     display: inline;
-    padding: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
     font-weight: 600;
     font-size: .8em;
     text-decoration: none;
@@ -158,12 +161,12 @@ nav a:hover {
 
 img {
     display: block;
-  margin: auto;
-margin: auto;}
+    margin: auto;
+    margin: auto;}
 
 
 .solidlogo {
-margin-bottom: 2em;}
+margin-bottom: 3em;}
 
 .landingpopcorn {
     margin-bottom: 3em;}
@@ -176,35 +179,31 @@ margin-bottom: 3em}
 
 
 .hellologo {margin-bottom: 3em;
-margin-top: 1em;}
+margin-top: 2em;}
 
 .brandbuild
-{
-    padding-top: 2em;
+{padding-top: 1.75em;
     padding-bottom: 2em;
     }
 
   
 #social {height: auto;
-overflow: hidden;
 display: block;
 max-width: 500px%;
-    margin: auto;
-    margin-bottom: 4em;
+margin-bottom: 4em;
     }
   
 #social img
 {display: block;
-margin 0 10px;
 max-width: 500px;
 align-content: center;
 }
 
-#social a {align-content: center;
-justify-content: center;
-    display: inline;
+#social a {
+display: inline;
     padding-bottom: 2em;
 }
+
 
 
 
