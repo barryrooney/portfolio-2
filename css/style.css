@@ -51,10 +51,15 @@ html.no-touch body {
     background-color: #00ffbb;
     height: 500px;
     padding-top: 3em;
+    padding-bottom: 3em;
+}
+
+#portfolio {
+    height: 1000px;
 }
 
 #about {background-color: #00ffbb;
-height: 380px;
+height: 420px;
     padding-top: 3em;
 }
 
@@ -79,7 +84,7 @@ p{
     max-width: 500px;
     margin: auto;
     min-width: 50px;
-  letter-spacing: .9px;
+  letter-spacing: 1.5px;
     font-size: .9em;
     text-align: center;
     color: white;
@@ -92,7 +97,7 @@ p{
     font-size: 1.2em;
     text-align: center;
     align-content: center;
-    letter-spacing: 1px;
+    letter-spacing: 1.5px;
     }
 
 
@@ -103,17 +108,17 @@ p{
     font-size: 1.2em;
     text-align: center;
     line-height: 2.5em;
-    margin-bottom: 2em;
-letter-spacing: 1px;}
+    margin-bottom: 1.5em;
+letter-spacing: 1.5px;}
 
 #contacta {
 font-family: 'Raleway', sans-serif;
     color: #00ffbb;
     font-weight: 4400;
-    font-size: 1.2em;
-    letter-spacing: 1px;
+    font-size: .9em;
+    letter-spacing: 1.5px;
     text-align: center;
-    line-height: 1.5em;
+    line-height: 1.7em;
   }
 
 
