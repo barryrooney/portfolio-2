@@ -25,3 +25,10 @@ Version 2
 + [Version 2](https://barryrooney.github.io/portfolio-2/index2.html)
 
 Tidy up and ready for flexboxing!
+
+Version 3
+=================
+
++ [Version 2](https://barryrooney.github.io/portfolio-2/index3.html)
+
+Fixing Responsive queries
