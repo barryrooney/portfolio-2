@@ -20,3 +20,5 @@ Version 1
 HTML Mark up and CSS version 1
 
 + [Version 2](https://barryrooney.github.io/portfolio-2/index2.html)
+
+Tidy up and ready for flexboxing!
