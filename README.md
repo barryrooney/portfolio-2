@@ -1,7 +1,7 @@
 
  
  
-  Personal Protfolio Webpage - Bold; Brand + Build by Barry Rooney
+Personal Protfolio Webpage - Bold; Brand + Build by Barry Rooney
 ========================
 
 After struggling with build for my first version I am wiping the slate clean and trying to build a second version with:
@@ -18,6 +18,9 @@ Version 1
 + [Version 1](https://barryrooney.github.io/portfolio-2/index.html)
 
 HTML Mark up and CSS version 1
+
+Version 2
+=================
 
 + [Version 2](https://barryrooney.github.io/portfolio-2/index2.html)
 
